@@ -1,4 +1,1 @@
-
-
-
-This is a test text to decide if push & commit work.
+It turns out that it works.
